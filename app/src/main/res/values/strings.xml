@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Workshop API</string>
+    <string name="txt_title">Titulo</string>
+    <string name="txt_episode_id">Episodio</string>
+    <string name="txt_opening_claw">Opening</string>
+    <string name="txt_director">Director</string>
+    <string name="txt_producer">Productor</string>
+    <string name="txt_release">Lanzamiento</string>
+    <string name="txt_species">Especies</string>
+    <string name="txt_startships">Naves Espacieales</string>
+    <string name="txt_vehicles">Vehiculos</string>
+    <string name="txt_characters">Caracteres</string>
+    <string name="txt_planets">Planetas</string>
+    <string name="txt_url">URL</string>
+    <string name="txt_edited">Editada</string>
+    <string name="txt_created">Creador</string>
+</resources>
